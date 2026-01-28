@@ -166,13 +166,7 @@ In many colleges, offices, hostels, and public places, students and staff freque
 ### Search Results
 *Unified search with separated sections for lost and found items*
 
-> **Note:** Add actual screenshots to your repository and update image paths below:
-```markdown
-![Landing Page](screenshots/landing.png)
-![Dashboard](screenshots/dashboard.png)
-![Report Form](screenshots/report-form.png)
-![Gallery View](screenshots/gallery.png)
-```
+
 
 ---
 
@@ -853,13 +847,13 @@ Found a bug or have a feature request?
 
 ## 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/campus-lost-found?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/campus-lost-found?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/campus-lost-found?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/campus-lost-found)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/campus-lost-found)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/campus-lost-found)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/campus-lost-found)
+![GitHub stars](https://img.shields.io/github/stars/samarthhitnalli/CampusLostFound?style=social)
+![GitHub forks](https://img.shields.io/github/forks/samarthhitnalli/CampusLostFound?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/samarthhitnalli/CampusLostFound?style=social)
+![GitHub issues](https://img.shields.io/github/issues/samarthhitnalli/CampusLostFound)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/samarthhitnalli/CampusLostFound)
+![GitHub last commit](https://img.shields.io/github/last-commit/samarthhitnalli/CampusLostFound)
+![GitHub repo size](https://img.shields.io/github/repo-size/samarthhitnalli/CampusLostFound)
 
 ---
 
@@ -877,7 +871,7 @@ If you found this project helpful, please consider:
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Samarth**
 
 *Helping students reunite with their belongings, one item at a time*
 
