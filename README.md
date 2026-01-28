@@ -166,8 +166,6 @@ In many colleges, offices, hostels, and public places, students and staff freque
 ### Search Results
 *Unified search with separated sections for lost and found items*
 
-
-
 ---
 
 ## 📥 Installation
@@ -187,8 +185,8 @@ Before you begin, ensure you have the following installed:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/campus-lost-found.git
-cd campus-lost-found
+git clone https://github.com/samarthhitnalli/CampusLostFound.git
+cd CampusLostFound
 ```
 
 #### 2️⃣ Database Setup
@@ -495,25 +493,6 @@ CampusLostFound/
 
 ## 🗄️ Database Schema
 
-### Entity Relationship Diagram
-
-```
-┌─────────────┐         ┌─────────────┐         ┌─────────────┐
-│    users    │         │ lost_items  │         │found_items  │
-├─────────────┤         ├─────────────┤         ├─────────────┤
-│ user_id (PK)│◄────────│ user_id (FK)│         │ user_id (FK)│────────►│
-│ name        │         │ lost_id (PK)│         │ found_id(PK)│
-│ email       │         │ item_name   │         │ item_name   │
-│ phone       │         │ description │         │ description │
-│ password    │         │ location    │         │ location    │
-│ role        │         │ lost_date   │         │ found_date  │
-│ created_at  │         │ contact     │         │ contact     │
-└─────────────┘         │ image_path  │         │ image_path  │
-                        │ status      │         │ status      │
-                        │ created_at  │         │ created_at  │
-                        └─────────────┘         └─────────────┘
-```
-
 ### Table Details
 
 #### `users`
@@ -680,7 +659,7 @@ We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/yourusername/campus-lost-found.git
+   git clone https://github.com/samarthhitnalli/CampusLostFound.git
    ```
 
 2. **Create a Feature Branch**
@@ -741,7 +720,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 Samarth Hitnalli
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -768,14 +747,8 @@ SOFTWARE.
 
 ### Development Team
 
-- **[Your Name]** - *Lead Developer* - [GitHub](https://github.com/yourusername)
-- **[Team Member 2]** - *Backend Developer*
-- **[Team Member 3]** - *Frontend Developer*
+- **SAMARTH HITNALLI** - *Lead Developer* - [GitHub](https://github.com/samarthhitnalli)
 
-### Academic Supervision
-
-- **[Professor Name]** - *Project Guide*
-- **[Institution Name]** - *Academic Institution*
 
 ### Acknowledgments
 
@@ -788,27 +761,17 @@ SOFTWARE.
 
 ---
 
-## 📞 Contact
-
-### Project Maintainer
-
-- **Name:** [Your Name]
-- **Email:** your.email@example.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
 ### Report Issues
 
 Found a bug or have a feature request?
-- 🐛 [Report Bug](https://github.com/yourusername/campus-lost-found/issues)
-- 💡 [Request Feature](https://github.com/yourusername/campus-lost-found/issues)
+- 🐛 [Report Bug](https://github.com/samarthhitnalli/CampusLostFound/issues)
+- 💡 [Request Feature](https://github.com/samarthhitnalli/CampusLostFound/issues)
 
 ### Project Links
 
-- 📂 **Repository:** [https://github.com/yourusername/campus-lost-found](https://github.com/yourusername/campus-lost-found)
-- 📖 **Documentation:** [Wiki](https://github.com/yourusername/campus-lost-found/wiki)
-- 🎥 **Demo Video:** [YouTube](https://youtube.com/watch?v=your-video-id)
-- 🌐 **Live Demo:** [https://campus-lost-found.example.com](https://campus-lost-found.example.com)
+- 📂 **Repository:** [https://github.com/samarthhitnalli/CampusLostFound](https://github.com/samarthhitnalli/CampusLostFound)
+- 📖 **Documentation:** [Wiki](https://github.com/samarthhitnalli/CampusLostFound/wiki)
+- 🎥 **Demo Video:** [YouTube to be Uploaded](https://youtube.com/watch?v=your-video-id)
 
 ---
 
